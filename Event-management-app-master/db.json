@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "hari",
+      "last_name": "reddy",
+      "email": "harireddy"
+    },
+    {
+      "id": 2,
+      "first_name": "hari",
+      "last_name": "nath",
+      "email": "nath@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "harinath",
+      "last_name": "reddy",
+      "email": "harinathreddy@gmail.com"
+    }
+  ]
+}
